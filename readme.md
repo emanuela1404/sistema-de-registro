@@ -4,3 +4,4 @@ estado del proyecto: En construcción
 
 para ejecutar el sistema, debes poner: 
 ```rpm install react```
+sistema de registro 2 
